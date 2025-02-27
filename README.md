@@ -10,6 +10,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Text To Voice | [Project-02](./Project-02/) |  
 | 🔹 Robot Joke Generator | [Project-03](./Project-03/) |  
 | 🔹 HSL Color Generator | [Project-04](./Project-04/) |  
+| 🔹 Digital Clock | [Project-05](./Project-05/) | 
 
 
 ## 🔧 How to Run  
