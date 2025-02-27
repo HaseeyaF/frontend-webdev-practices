@@ -16,6 +16,9 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Calculator Application | [Project-08](./Project-08/) | 
 | 🔹 Text-Effect | [Project-09](./Project-09/) | 
 | 🔹 Image Comparison Slider | [Project-10](./Project-10/) | 
+| 🔹 Sticky Notes | [Project-11](./Project-11/) | 
+| 🔹 File Upload | [Project-12](./Project-12/) | 
+| 🔹 Vowel Counter | [Project-13](./Project-13/) | 
 
 
 ## 🔧 How to Run  
