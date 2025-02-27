@@ -13,6 +13,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Digital Clock | [Project-05](./Project-05/) | 
 | 🔹 Percentage Calculator | [Project-06](./Project-06/) | 
 | 🔹 Flip Color | [Project-07](./Project-07/) | 
+| 🔹 Calculator Application | [Project-08](./Project-08/) | 
 
 
 ## 🔧 How to Run  
