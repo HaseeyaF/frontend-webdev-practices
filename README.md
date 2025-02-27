@@ -19,6 +19,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Sticky Notes | [Project-11](./Project-11/) | 
 | 🔹 File Upload | [Project-12](./Project-12/) | 
 | 🔹 Vowel Counter | [Project-13](./Project-13/) | 
+| 🔹 Cash Calculator | [Project-14](./Project-14/) | 
 
 
 ## 🔧 How to Run  
