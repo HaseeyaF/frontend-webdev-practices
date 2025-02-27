@@ -11,6 +11,8 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Robot Joke Generator | [Project-03](./Project-03/) |  
 | 🔹 HSL Color Generator | [Project-04](./Project-04/) |  
 | 🔹 Digital Clock | [Project-05](./Project-05/) | 
+| 🔹 Percentage Calculator | [Project-06](./Project-06/) | 
+| 🔹 Flip Color | [Project-07](./Project-07/) | 
 
 
 ## 🔧 How to Run  
