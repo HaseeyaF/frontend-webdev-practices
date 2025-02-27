@@ -14,6 +14,8 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 Percentage Calculator | [Project-06](./Project-06/) | 
 | 🔹 Flip Color | [Project-07](./Project-07/) | 
 | 🔹 Calculator Application | [Project-08](./Project-08/) | 
+| 🔹 Text-Effect | [Project-09](./Project-09/) | 
+| 🔹 Image Comparison Slider | [Project-10](./Project-10/) | 
 
 
 ## 🔧 How to Run  
