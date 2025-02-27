@@ -20,6 +20,8 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 File Upload | [Project-12](./Project-12/) | 
 | 🔹 Vowel Counter | [Project-13](./Project-13/) | 
 | 🔹 Cash Calculator | [Project-14](./Project-14/) | 
+| 🔹 Age Calculator | [Project-15](./Project-15/) | 
+| 🔹 BMI Calculator | [Project-16](./Project-16/) | 
 
 
 ## 🔧 How to Run  
