@@ -7,8 +7,8 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 |📂 Project Name |
 |-------------|
 | 🔹 [Speech To Text](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Speech-To-Text)|
-| 🔹 Text To Voice | 
-| 🔹 Robot Joke Generator |
+| 🔹 [Text To Voice](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Text-To-Voice) | 
+| 🔹 [Robot Joke Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Robot-Joke-Generator) |
 | 🔹 HSL Color Generator |
 | 🔹 Digital Clock |
 | 🔹 Percentage Calculator |
