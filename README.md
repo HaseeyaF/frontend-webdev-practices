@@ -4,24 +4,24 @@ HTML, CSS & JavaScript Projects
 This repository contains *small projects* to practice *HTML, CSS, and JavaScript*. Each project is beginner-friendly and covers different web development concepts.  
 
 ## 📌 Table of Contents  
-| Project Name | 📂 Folder |
-|-------------|------------|
-| 🔹 [Speech To Text](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Speech-To-Text)| [Project-01](./Project-01/) |
-| 🔹 Text To Voice | [Project-02](./Project-02/) |  
-| 🔹 Robot Joke Generator | [Project-03](./Project-03/) |  
-| 🔹 HSL Color Generator | [Project-04](./Project-04/) |  
-| 🔹 Digital Clock | [Project-05](./Project-05/) | 
-| 🔹 Percentage Calculator | [Project-06](./Project-06/) | 
-| 🔹 Flip Color | [Project-07](./Project-07/) | 
-| 🔹 Calculator Application | [Project-08](./Project-08/) | 
-| 🔹 Text-Effect | [Project-09](./Project-09/) | 
-| 🔹 Image Comparison Slider | [Project-10](./Project-10/) | 
-| 🔹 Sticky Notes | [Project-11](./Project-11/) | 
-| 🔹 File Upload | [Project-12](./Project-12/) | 
-| 🔹 Vowel Counter | [Project-13](./Project-13/) | 
-| 🔹 Cash Calculator | [Project-14](./Project-14/) | 
-| 🔹 Age Calculator | [Project-15](./Project-15/) | 
-| 🔹 BMI Calculator | [Project-16](./Project-16/) | 
+|📂 Project Name |
+|-------------|
+| 🔹 [Speech To Text](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Speech-To-Text)|
+| 🔹 Text To Voice | 
+| 🔹 Robot Joke Generator |
+| 🔹 HSL Color Generator |
+| 🔹 Digital Clock |
+| 🔹 Percentage Calculator |
+| 🔹 Flip Color |
+| 🔹 Calculator Application |
+| 🔹 Text-Effect |
+| 🔹 Image Comparison Slider |
+| 🔹 Sticky Notes |
+| 🔹 File Upload |
+| 🔹 Vowel Counter |
+| 🔹 Cash Calculator |
+| 🔹 Age Calculator |
+| 🔹 BMI Calculator |
 
 
 ## 🔧 How to Run  
