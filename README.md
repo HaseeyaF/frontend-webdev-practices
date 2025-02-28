@@ -6,7 +6,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 ## 📌 Table of Contents  
 | Project Name | 📂 Folder |
 |-------------|------------|
-| 🔹 [Speech To Text](./Speech To Text/)| [Project-01](./Project-01/) |
+| 🔹 [Speech To Text](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Speech-To-Text)| [Project-01](./Project-01/) |
 | 🔹 Text To Voice | [Project-02](./Project-02/) |  
 | 🔹 Robot Joke Generator | [Project-03](./Project-03/) |  
 | 🔹 HSL Color Generator | [Project-04](./Project-04/) |  
