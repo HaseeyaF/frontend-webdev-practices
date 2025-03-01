@@ -8,20 +8,20 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 |-------------|
 | 🔹 [Speech To Text](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Speech-To-Text)|
 | 🔹 [Text To Voice](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Text-To-Voice) | 
+| 🔹 [Cash Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Cash-Calculator) |
 | 🔹 [Robot Joke Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Robot-Joke-Generator) |
-| 🔹 HSL Color Generator |
-| 🔹 Digital Clock |
-| 🔹 Percentage Calculator |
-| 🔹 Flip Color |
-| 🔹 Calculator Application |
-| 🔹 Text-Effect |
-| 🔹 Image Comparison Slider |
-| 🔹 Sticky Notes |
-| 🔹 File Upload |
-| 🔹 Vowel Counter |
-| 🔹 Cash Calculator |
-| 🔹 Age Calculator |
-| 🔹 BMI Calculator |
+| 🔹 [HSL Color Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/HSL-Color-Generator) |
+| 🔹 [Digital Clock](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Digital-Clock) |
+| 🔹 [Percentage Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Percentage-Calculator) |
+| 🔹 [BMI Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/BMI-Calculator) |
+| 🔹 [Flip Color](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Flip-Color) |
+| 🔹 [Image Comparison Slider](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Image-Comparison-Slider) |
+| 🔹 [Calculator Application](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Calculator-Application) |
+| 🔹 [Text-Effect](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Text-Effect) |
+| 🔹 [Sticky Notes](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Sticky-Notes) |
+| 🔹 [File Upload](https://github.com/HaseeyaF/frontend-webdev-practices/tree/File-Upload) |
+| 🔹 [Vowel Counter](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Vowel-Counter) |
+| 🔹 [Age Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Age-Calculator) |
 
 
 ## 🔧 How to Run  
