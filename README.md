@@ -12,6 +12,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 [Robot Joke Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Robot-Joke-Generator) |
 | 🔹 [HSL Color Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/HSL-Color-Generator) |
 | 🔹 [Digital Clock](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Digital-Clock) |
+| 🔹 [Basic Image Editor](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Basic-Image-Editor) |
 | 🔹 [Percentage Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Percentage-Calculator) |
 | 🔹 [BMI Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/BMI-Calculator) |
 | 🔹 [Flip Color](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Flip-Color) |
