@@ -12,12 +12,15 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 [Robot Joke Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Robot-Joke-Generator) |
 | 🔹 [HSL Color Generator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/HSL-Color-Generator) |
 | 🔹 [Digital Clock](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Digital-Clock) |
+| 🔹 [Date and Time](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Date-Time) |
 | 🔹 [Basic Image Editor](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Basic-Image-Editor) |
 | 🔹 [Percentage Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Percentage-Calculator) |
 | 🔹 [BMI Calculator](https://github.com/HaseeyaF/frontend-webdev-practices/tree/BMI-Calculator) |
 | 🔹 [Flip Color](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Flip-Color) |
 | 🔹 [Image Comparison Slider](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Image-Comparison-Slider) |
+| 🔹 [Video Slider](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Video-Slider) |
 | 🔹 [Calculator Application](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Calculator-Application) |
+| 🔹 [Dictionary Application](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Dictionary-Application) |
 | 🔹 [Text-Effect](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Text-Effect) |
 | 🔹 [Sticky Notes](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Sticky-Notes) |
 | 🔹 [File Upload](https://github.com/HaseeyaF/frontend-webdev-practices/tree/File-Upload) |
