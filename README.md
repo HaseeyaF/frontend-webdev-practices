@@ -20,7 +20,7 @@ This repository contains *small projects* to practice *HTML, CSS, and JavaScript
 | 🔹 [Image Comparison Slider](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Image-Comparison-Slider) |
 | 🔹 [Video Slider](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Video-Slider) |
 | 🔹 [Calculator Application](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Calculator-Application) |
-| 🔹 [Dictionary Application](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Dictionary-Application) |
+| 🔹 [Dictionary](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Dictionary) |
 | 🔹 [Text-Effect](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Text-Effect) |
 | 🔹 [Sticky Notes](https://github.com/HaseeyaF/frontend-webdev-practices/tree/Sticky-Notes) |
 | 🔹 [File Upload](https://github.com/HaseeyaF/frontend-webdev-practices/tree/File-Upload) |
