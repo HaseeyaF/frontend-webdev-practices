@@ -3,6 +3,15 @@ HTML, CSS & JavaScript Projects
 
 This repository contains *small projects* to practice *HTML, CSS, and JavaScript*. Each project is beginner-friendly and covers different web development concepts.  
 
+I would like to express my sincere gratitude to **Udemy** for providing excellent practical guidance on **HTML, CSS, and JavaScript** projects.  
+
+The structured lessons, real-world examples, and hands-on projects have significantly enhanced my web development skills. The clear explanations and well-organized course content made learning both engaging and effective.  
+
+Thank you, **Udemy**, for making learning accessible and practical! 🚀  
+
+👨‍💻 Happy Coding!  
+
+
 ## 📌 Table of Contents  
 |📂 Project Name |
 |-------------|
